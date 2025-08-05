@@ -2,7 +2,12 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+.idea/
+.idea/misc.xml
+.idea/profiles_settings.xml
+.idea/modules.xml
+.idea/vcs.xml
+*.iml
 # C extensions
 *.so
 
